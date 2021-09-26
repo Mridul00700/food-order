@@ -26,3 +26,9 @@ const DUMMY_MEALS = [
         price: 18.99,
     },
 ];
+
+const AvailableMeals = () => {
+
+}
+
+export default AvailableMeals;
